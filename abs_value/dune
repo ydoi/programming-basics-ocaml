@@ -1,0 +1,2 @@
+(executable
+ (name abs_value))
